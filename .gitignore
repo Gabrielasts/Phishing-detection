@@ -1,25 +1,8 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.env
-.venv
+# OS logs
+*.log
 
-# VS Code
-.vscode/
+# Chrome extension
+*.crx
 
-# Data and Models (Optional: Comment out if you want to track these on GitHub)
-# data/
-# models/
-# *.pkl
-# *.csv
-# *.rar
-# *.zip
-
-# OS
-.DS_Store
-Thumbs.db
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
