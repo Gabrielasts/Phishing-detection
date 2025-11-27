@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Data and Models (Optional: Comment out if you want to track these on GitHub)
+# data/
+# models/
+# *.pkl
+# *.csv
+# *.rar
+# *.zip
+
+# OS
+.DS_Store
+Thumbs.db
